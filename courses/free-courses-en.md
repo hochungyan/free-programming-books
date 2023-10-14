@@ -1366,7 +1366,7 @@
 * [SoloLearn](https://www.sololearn.com/Course/Python/)
 * [The Python Tutorial](https://docs.python.org/3/tutorial/)
 * [Using Python for Research](https://www.edx.org/course/using-python-for-research) (edX Harvard)
-
+* [Python for Programmers](https://www.codecademy.com/learn/python-for-programmers) (codecademy)
 
 #### Django
 
